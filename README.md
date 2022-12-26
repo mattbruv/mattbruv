@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **mattbruv/mattbruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,7 @@ The languages I enjoy using the most are:
 
 ![](https://img.shields.io/badge/Python-FFD43B)
 ![](https://img.shields.io/badge/TypeScript-007ACC)
+![](https://img.shields.io/badge/Rust-dea584)
 ![](https://img.shields.io/badge/C%2B%2B-00599C)
 
 You can contact me on Discord: mp#7562
