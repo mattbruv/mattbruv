@@ -32,7 +32,7 @@ Outside of programming I enjoy:
 - Language Learning: 
 ![](https://flagcdn.com/w20/es.jpg) Spanish (B2),
 ![](https://flagcdn.com/w20/ru.jpg) Russian (getting started)
-- Travel (13 countries, 5/7 world wonders)
+- Travel (14 countries, 5/7 world wonders)
 ![Mexico](https://flagcdn.com/w20/mx.jpg)
 ![Colombia](https://flagcdn.com/w20/co.jpg)
 ![Peru](https://flagcdn.com/w20/pe.jpg)
@@ -46,6 +46,6 @@ Outside of programming I enjoy:
 ![Egypt](https://flagcdn.com/w20/eg.jpg)
 ![Jordan](https://flagcdn.com/w20/jo.jpg)
 ![Israel](https://flagcdn.com/w20/il.jpg)
-
+![Dominican Republic](https://flagcdn.com/w20/do.jpg)
 
 - Photography
